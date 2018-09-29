@@ -4,3 +4,15 @@ ANT build.xml
 gradle gradle.xml
 install jdk tomcat 8
  , ANT , Maven ,Jenkins ,Gradle , GIT
+
+vvironment var : PATH =  till bin JDK , ANT , Maven, Gradle GIT
+
+JAVA_HOME = prior bin 
+
+Jenkins installtion 
+secret initiate admin password 
+manage plug ins
+user name configuration
+
+Jenkins -- port localhost:8080
+tomcatlocalhost:6313 ( customisable number)
