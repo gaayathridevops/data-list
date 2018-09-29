@@ -16,3 +16,13 @@ user name configuration
 
 Jenkins -- port localhost:8080
 tomcatlocalhost:6313 ( customisable number)
+Navigate to jenkins --> manage jenkins plugin available manage invoke 
+git "" 
+Gradle
+ANT 
+Deploy to container
+Jenkins --> global tool congfig--> JDK installtion --> java home 
+
+for git only we copy till git.exe
+others prior to bin path
+Jenkins --> New project -- xexample Maven project --> freee style
