@@ -1,0 +1,6 @@
+pom.xml related to maven
+ANT build.xml
+
+gradle gradle.xml
+install jdk tomcat 8
+ , ANT , Maven ,Jenkins ,Gradle , GIT
