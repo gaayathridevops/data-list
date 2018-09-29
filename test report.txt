@@ -26,3 +26,6 @@ Jenkins --> global tool congfig--> JDK installtion --> java home
 for git only we copy till git.exe
 others prior to bin path
 Jenkins --> New project -- xexample Maven project --> freee style
+
+
+Apache Manager app-- check wheter added project listing
