@@ -28,4 +28,9 @@ others prior to bin path
 Jenkins --> New project -- xexample Maven project --> freee style
 
 
+<<<<<<< HEAD
 Apache Manager app-- check wheter added project listing
+=======
+
+Navigate to jenkins --> manage jenkins plugin available manage invoke 
+>>>>>>> cf5990ed7fba82c3004d65711e73e97d28dcf7e1
